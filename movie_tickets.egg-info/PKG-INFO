@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: movie_tickets
+Version: 0.0.1
+Summary: Movie Tickets Booking app with FrappeUI, built live on BuildWithHussain
+Author: Build With Hussain
+Author-email: hussain@frappe.io
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
