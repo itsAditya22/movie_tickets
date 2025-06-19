@@ -1,6 +1,6 @@
 ## Movie Tickets
 
-Movie Tickets Booking app with FrappeUI, built live on BuildWithHussain
+<h4>Movie Tickets Booking app</h4>
 
 #### License
 
